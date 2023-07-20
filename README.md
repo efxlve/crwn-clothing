@@ -1,2 +1,5 @@
-# crwn-clothing
-👒ReactJS: { work in progress }
+# CRWN Clothing
+
+{ WORK IN PROGRESS }
+
+
