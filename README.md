@@ -35,7 +35,7 @@ npm start
 
 ## Screenshot
 Here we have project screenshot:
-[screenshot](/screenshots/screenshot1.jpeg)
+[screenshot](./screenshots/screenshot1.jpeg)
 [screenshot](/screenshots/screenshot2.jpeg)
 [screenshot](/screenshots/screenshot3.jpeg)
 [screenshot](/screenshots/screenshot4.jpeg)
