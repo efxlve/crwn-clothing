@@ -33,6 +33,9 @@ npm start
 ```
 4. Open localhost:3000 in your browser
 
+## License
+This repo is published under the MIT license. For more information, please see the [LICENSE](https://github.com/efxlve/crwn-clothing/blob/main/LICENSE) file.
+
 
 
 
