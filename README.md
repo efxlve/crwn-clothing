@@ -1,5 +1,10 @@
 # CRWN Clothing
-CRWN Clothing is an e-commerce web application built with React, Redux, Firebase, and Stripe. It is a fully functional e-commerce platform with the following features: 
+CRWN Clothing is an e-commerce web application built with React, Redux, Firebase, and Stripe. It is a full-stack application that allows users to browse through a variety of clothing items, add items to their cart, and checkout using Stripe. The application also features user authentication and authorization with Firebase and Google Sign-In.
+
+## Live Demo
+You can view a live demo of this app [here](https://incandescent-snickerdoodle-5f483c.netlify.app/).
+
+## Features
 - User authentication with Firebase
 - User authorization with Firebase and Google Sign-In
 - User data storage with Firebase
@@ -7,9 +12,6 @@ CRWN Clothing is an e-commerce web application built with React, Redux, Firebase
 - Payment processing with Stripe
 - Database storage with Firebase
 - Deployment with Netlify
-
-## Demo
-[Live Demo](https://incandescent-snickerdoodle-5f483c.netlify.app/)
 
 ## Technologies
 - React
@@ -21,7 +23,7 @@ CRWN Clothing is an e-commerce web application built with React, Redux, Firebase
 ## Installation
 1. Clone the repository
 ```
-git clone
+git clone https://github.com/efxlve/crwn-clothing.git
 ```
 2. Install dependencies
 ```
