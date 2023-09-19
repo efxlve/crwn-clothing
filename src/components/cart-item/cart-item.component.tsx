@@ -17,6 +17,6 @@ const CartItem: FC<CartItemProps> = ({ cartItem }) => {
             </ItemDetails>
         </CartItemContainer>
     );
-}
+};
 
 export default CartItem;

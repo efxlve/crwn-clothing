@@ -17,7 +17,7 @@ const DirectoryItem: FC<DirectoryItemProps> = ({ category }) => {
             <BackgroundImage imageUrl={imageUrl} />
             <Body>
                 <h2>{title}</h2>
-                <p>Show Now</p>
+                <p>Shop Now</p>
             </Body>
         </DirectoryItemContainer>
     );
