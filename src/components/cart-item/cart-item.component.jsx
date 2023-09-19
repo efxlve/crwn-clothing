@@ -11,6 +11,6 @@ const CartItem = ({ cartItem }) => {
             </ItemDetails>
         </CartItemContainer>
     );
-}
+};
 
 export default CartItem;
