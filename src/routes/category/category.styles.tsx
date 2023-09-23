@@ -7,9 +7,13 @@ export const CategoryContainer = styled.div`
     row-gap: 50px;
 
     @media screen and (max-width: 800px) {
-        grid-template-columns: 1fr 1fr;
-        grid-column-gap: 20px;
-        grid-row-gap: 25px;
+        width: 40vw;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        column-gap: 15px;
+        row-gap: 30px;
+        margin-left: 15px;
+    }
 `;
 
 export const Title = styled.h2`
