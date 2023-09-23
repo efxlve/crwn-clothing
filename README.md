@@ -17,7 +17,6 @@ This is the basic version of the project. For an updated and improved version, s
 - Redux
 - Firebase
 - Stripe
-- Netlify
 
 ## Installation
 1. Clone the repository
