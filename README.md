@@ -1,5 +1,5 @@
 # CRWN Clothing (TypeScript)
-CRWN Clothing is an e-commerce web application built with React, Redux, Firebase, and Stripe. It is a full-stack application that allows users to browse through a variety of clothing items, add items to their cart, and checkout using Stripe. The application also features user authentication and authorization with Firebase and Google Sign-In.
+CRWN Clothing is an e-commerce web application built with React, Redux, TypeScript, Firebase, and Stripe. It is a full-stack application that allows users to browse through a variety of clothing items, add items to their cart, and checkout using Stripe. The application also features user authentication and authorization with Firebase and Google Sign-In.
 
 ## Live Demo
 You can view a live demo of this app [here](https://verdant-brigadeiros-439541.netlify.app/).
