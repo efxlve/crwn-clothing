@@ -1,7 +1,7 @@
 # CRWN Clothing
 CRWN Clothing is an e-commerce web application built with React, Redux, Firebase, and Stripe. It is a full-stack application that allows users to browse through a variety of clothing items, add items to their cart, and checkout using Stripe. The application also features user authentication and authorization with Firebase and Google Sign-In.
 
-This project is the basic version. For an updated and improved version, see [CRWN Clothing (TypeScript)](https://github.com/efxlve/crwn-clothing-typescript).
+This is the basic version of the project. For an updated and improved version, see [CRWN Clothing (TypeScript)](https://github.com/efxlve/crwn-clothing-typescript).
 
 ## Features
 - User authentication with Firebase
