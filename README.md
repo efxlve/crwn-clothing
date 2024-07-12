@@ -25,13 +25,13 @@ Homepage:
 ![homepage](https://github.com/user-attachments/assets/beb62dd4-050f-47b1-88ca-d09866a03ed3)
 
 Shop Page:
-![Shop Page](screenshots/shop.png)
+![shop](https://github.com/user-attachments/assets/fea61f89-de14-4248-a10f-2422a34578d9)
 
 Sign in Page:
-![Sign in Page](screenshots/auth.png)
+![auth](https://github.com/user-attachments/assets/4c5e0d04-0b8a-4c27-95f5-f250ea3da6ee)
 
 Checkout Page:
-![Cart Page](screenshots/checkout.png)
+![checkout](https://github.com/user-attachments/assets/82efc68d-7968-4684-ab6b-4d741b697d5b)
 
 ## Installation
 
