@@ -21,7 +21,7 @@ You can view a live demo of this app [here](https://main--verdant-brigadeiros-43
 - Stripe
 - Netlify
 
-## Installation
+## Installation 
 1. Clone the repository
 ```
 git clone https://github.com/efxlve/crwn-clothing-typescript.git
