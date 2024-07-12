@@ -22,7 +22,7 @@ CRWN Clothing is a modern and stylish online clothing store. This project is bui
 ## Screenshots
 
 Homepage:
-![Homepage](screenshots/homepage.png)
+![Homepage](./screenshots/homepage.png)
 
 Shop Page:
 ![Shop Page](screenshots/shop.png)
