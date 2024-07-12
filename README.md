@@ -59,7 +59,7 @@ Once the application is running, open your browser and go to `http://localhost:3
 
 ## Demo
 
-Check out the live demo of the project [here](https://main--verdant-brigadeiros-439541.netlify.app).
+Check out the live demo of the project [here](https://verdant-brigadeiros-439541.netlify.app).
 
 ## Contributing
 
